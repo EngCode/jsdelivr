@@ -3,7 +3,8 @@
 "name": "Tornado",
 "repo": "EngCode/Tornado",
 "files": {
-  "basePath": "dist/css-js",
+  "basePath": "dist/css",
+  "basePath": "dist/js",
   "include": ["tornado.js" ,"tornado.css" ,"tornado-rtl.css" ,"animations.css" ,"fonts/*.woff" ,"fonts/*.woff2"]
   }
 }
